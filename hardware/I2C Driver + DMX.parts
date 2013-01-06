@@ -1,0 +1,32 @@
+Partlist
+
+Exported from I2C Driver + DMX.sch at 25.06.2011 23:47:09
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part       Value          Device          Package      Library          Sheet
+
+C1         100n           C-EU025-025X050 C025-025X050 resistor         1
+C2         100µF / 63V    CPOL-EUE5-10.5  E5-10,5      resistor         1
+C3         330µF / 35V    CPOL-EUE5-10.5  E5-10,5      resistor         1
+D1         1N5819         1N5817-B        DO41-7.6     diode            1
+DMX1                      JP2E            JP2          jumper           1
+DMX1-3                    250-210         250-210      Benjamin         1
+DMX2                      JP2E            JP2          jumper           1
+DMX3                      JP2E            JP2          jumper           1
+I2C_IN_3V                 JP4E            JP4          jumper           1
+I2C_OUT_5V                JP4E            JP4          jumper           1
+IC1        PCA9306        DIL8            DIL08        ic-package       1
+IC2        75176AP        75176AP         DIL08        751xx            1
+IC3        75176AP        75176AP         DIL08        751xx            1
+IC4        75176AP        75176AP         DIL08        751xx            1
+IC5        P3596 L-5,0    LM2596TV        TO220-51     linear           1
+JP1                       PINHD-1X1       1X01         pinhead          1
+JP3                       JP1E            JP1          jumper           1
+L1         100µ           L-EUPISR        PISR         Inductor-Fastron 1
+R1         330R           R-EU_0207/10    0207/10      resistor         1
+R2         330R           R-EU_0207/10    0207/10      resistor         1
+R3         200k           R-EU_0207/10    0207/10      resistor         1
+R4         4k7            R-EU_0207/10    0207/10      resistor         1
+VIN        250-202        250-202         250-202      Benjamin         1
+VOUT       250-202        250-202         250-202      Benjamin         1
