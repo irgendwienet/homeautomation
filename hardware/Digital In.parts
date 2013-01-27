@@ -1,0 +1,31 @@
+Partlist
+
+Exported from Digital In.sch at 27.01.2013 12:50:53
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library       Sheet
+
+C1       100n           C-EU050-030X075 C050-030X075 resistor      1
+I2C_IN                  JP4E            JP4          jumper        1
+I2C_OUT                 JP4E            JP4          jumper        1
+IC1      PCF8574P       PCF8574P        DIL16        micro-philips 1
+JP2                     PINHD-1X1       1X01         pinhead       1
+OK1      PC847          PC847           DIL16        optocoupler   1
+OK2      PC847          PC847           DIL16        optocoupler   1
+R1       560R           R-EU_0207/10    0207/10      resistor      1
+R2       560R           R-EU_0207/10    0207/10      resistor      1
+R3       560R           R-EU_0207/10    0207/10      resistor      1
+R4       560R           R-EU_0207/10    0207/10      resistor      1
+R5       560R           R-EU_0207/10    0207/10      resistor      1
+R6       560R           R-EU_0207/10    0207/10      resistor      1
+R7       560R           R-EU_0207/10    0207/10      resistor      1
+R8       560R           R-EU_0207/10    0207/10      resistor      1
+RN1      4k7            RN08            RN-9         resistor-net  1
+RN2      4k7            RN04            RN-5         resistor-net  1
+SJ1                     SJW             SJW          jumper        1
+SJ2                     SJW             SJW          jumper        1
+SJ3                     SJW             SJW          jumper        1
+X1                      250-210         250-210      Benjamin      1
